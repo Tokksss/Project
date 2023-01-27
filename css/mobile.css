@@ -41,8 +41,9 @@
     }
 
     .card {
-        width: 87%;
-        margin: 0 auto;
+        /* width: 87%;
+        margin: 0 auto; */
+        display: none;
     }
 
     /* section3 */
