@@ -1,0 +1,69 @@
+@media (max-width: 400px) {
+    /* header */
+
+    .btn-holder {
+        width: 100%;
+        height: 150px;
+        flex-direction: column;
+        align-items: center;
+        position: fixed;
+        top: 57px;
+        left: 101%;
+        gap: 0;
+        justify-content: space-around;
+
+
+
+    }
+
+
+    /* section1 */
+    .morenews {
+        display: block;
+    }
+
+    .news1 {
+        display: block;
+    }
+
+    /* section2 */
+
+    .section2 {
+        width: 100%;
+    }
+
+    .trnd {
+        padding-left: 10%;
+    }
+
+    .cards {
+        display: block;
+    }
+
+    .card {
+        width: 87%;
+        margin: 0 auto;
+    }
+
+    /* section3 */
+    .marjsec {
+        width: 100%;
+        display: block;
+    }
+
+    .card3 {
+        width: 100%;
+    }
+
+
+    /* foter;*/
+
+    .footer_cnt {
+        display: none;
+    }
+
+    .footer_icons {
+        justify-content: center;
+
+    }
+}
