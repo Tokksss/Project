@@ -22,6 +22,7 @@ header {
     background-color: #082A3A;
     position: fixed;
     top: 0;
+    z-index: 1;
 }
 
 
@@ -726,21 +727,14 @@ footer {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    display: -webkit-box;
-    display: -ms-flexbox;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 57px;
     background-color: #a6adb4;
-    display: -webkit-box;
-    display: -ms-flexbox;
-
 }
 
 .footer_cnt {
     display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
     gap: 40px;
     font-family: "helvetica";
     font-size: 13px;
