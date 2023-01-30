@@ -1,18 +1,8 @@
-@media (max-width: 400px) {
+@media (max-width: 410px) {
     /* header */
 
     .btn-holder {
-        width: 100%;
-        height: 150px;
-        flex-direction: column;
-        align-items: center;
-        position: fixed;
-        top: 57px;
-        left: 101%;
-        gap: 0;
-        justify-content: space-around;
-
-
+      display: none;
 
     }
 
@@ -63,8 +53,11 @@
         display: none;
     }
 
-    .footer_icons {
+    .icons1 {
+        display: flex;
         justify-content: center;
+        align-items: center;
+        margin: 0 auto;
 
     }
 }

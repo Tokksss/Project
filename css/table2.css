@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+
+    /* სექცია-1 */
+
+    .section_1 {
+
+        display: block;
+
+    }
+
+    .centerne {
+        width: 100%;
+    }
+
+
+    /* სექცია-2 */
+    .section_2 {
+        display: block;
+        height: 465px;
+    }
+
+    .sect2main {
+        display: flex;
+        flex-direction: column;
+        width: 600px;
+    }
+
+    .commodo {
+        margin: 0 auto;
+    }
+
+
+    /* FOOTER */
+    footer {
+        display: inline-block;
+    }
+
+    .footer_icons {
+        display: flex;
+        justify-content: right;
+    }
+
+
+
+
+}
