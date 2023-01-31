@@ -341,7 +341,7 @@ header {
 
 .sech1 {
 
-    width: 70%;
+    width: 70px;
     height: 2rem;
     font-size: 30px;
     text-align: left;
@@ -436,6 +436,7 @@ h3 {
     margin-top: 50px;
     font-size: 30px;
     border-bottom: 3px solid rgb(89, 90, 87);
+    width: 300px;
 }
 
 .wt {
@@ -458,13 +459,13 @@ h3 {
 .fa-clock {
     font-size: 0.4rem;
 }
-
+/* 
 .news1:hover {
     color: #464646;
     box-shadow: 2px 2px 15px #cfcfcf inset;
 
 
-}
+} */
 
 
 
@@ -603,6 +604,7 @@ h3 {
     background-size: cover;
     border: 2px solid #6c9b6c;
     box-shadow: 2px 2px 15px #000000 inset;
+    cursor: pointer;
 }
 
 .fotomv:hover {
@@ -644,6 +646,7 @@ h3 {
     background-size: cover;
     border: 2px solid #6c9b6c;
     box-shadow: 2px 2px 15px #000000 inset;
+    cursor: pointer;
 
 }
 
@@ -701,6 +704,7 @@ h3 {
     justify-content: center;
     flex-wrap: wrap;
     font-family: 'Pacifico';
+    cursor: pointer;
 
 }
 
